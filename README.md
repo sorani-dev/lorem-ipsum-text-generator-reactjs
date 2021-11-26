@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Lorem Ipsum Text Generator App React
+
+from video by h3webdevtuts
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
